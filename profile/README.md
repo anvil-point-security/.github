@@ -1,6 +1,6 @@
 <img align="left" width="120" alt="Anvil Point Security" src="https://anvilpointsecurity.com/assets/mark.webp">
 
-Anvil Point Security hardens the software and systems people depend on, and builds the detections that catch an attacker at work. We're a small firm founded in 2026, so in place of client logos we point to work you can check.
+Anvil Point Security hardens the software and systems people depend on, and builds the detections that catch an attacker at work. Founded Nov 2026.
 
 <br clear="left"/>
 
