@@ -31,6 +31,6 @@ In review: Open OnDemand [#6185](https://github.com/OSC/ondemand/pull/6185), whi
 
 We follow coordinated disclosure. When we find a vulnerability in code someone else maintains, we report it privately through the channel they ask for and give them 90 days to fix it before we publish. Proofs run only against our own installs, never anyone's live systems. The full policy is at [anvilpointsecurity.com/disclosure](https://anvilpointsecurity.com/disclosure).
 
-Questions about a report we sent go to [security@anvilpointsecurity.com](mailto:security@anvilpointsecurity.com).
+Questions about a report we sent? Reach out to [security@anvilpointsecurity.com](mailto:security@anvilpointsecurity.com).
 
 [Website](https://anvilpointsecurity.com) | [LinkedIn](https://www.linkedin.com/company/anvil-point-security) | [X](https://x.com/AnvilPointSec)
